@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYSIndexer", "SYSIndexer\SYSIndexer.csproj", "{CF596B42-EED3-4ED4-9092-8487BBC33663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF596B42-EED3-4ED4-9092-8487BBC33663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF596B42-EED3-4ED4-9092-8487BBC33663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF596B42-EED3-4ED4-9092-8487BBC33663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF596B42-EED3-4ED4-9092-8487BBC33663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF8C3E5-EDC3-4E24-A47F-D28657CBA26C}
+	EndGlobalSection
+EndGlobal

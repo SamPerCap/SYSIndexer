@@ -1,0 +1,11 @@
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\bin\Debug\netcoreapp2.1\SYSIndexer.deps.json
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\bin\Debug\netcoreapp2.1\SYSIndexer.runtimeconfig.json
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\bin\Debug\netcoreapp2.1\SYSIndexer.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\bin\Debug\netcoreapp2.1\SYSIndexer.dll
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\obj\Debug\netcoreapp2.1\SYSIndexer.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\obj\Debug\netcoreapp2.1\SYSIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\obj\Debug\netcoreapp2.1\SYSIndexer.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\obj\Debug\netcoreapp2.1\SYSIndexer.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\bin\Debug\netcoreapp2.1\SYSIndexer.pdb
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\obj\Debug\netcoreapp2.1\SYSIndexer.dll
+C:\Users\Samuel\Desktop\ProyectosProgramacion\CSharpProjects\SYSIndexer\SYSIndexer\obj\Debug\netcoreapp2.1\SYSIndexer.pdb
